@@ -1,5 +1,6 @@
 # 2D Clinostat
-A clinostat is a device that removes the effect of gravity on plant root and shoot growth, effectively simulating a weightless environment without the need to leave Earth’s atmosphere.
+A clinostat is a device that removes the effect of gravity on plant root and shoot growth, effectively simulating a weightless environment without the need to leave Earth’s atmosphere. Dr. Barker and his research team have enlisted our help with designing and constructing a 2D clinostat for use in UW-Madison’s botany research lab.
+
 ### Design Considerations
 The 2D clinostat must...
 - Rotate at a continuous speed of 1 RPM for a week
