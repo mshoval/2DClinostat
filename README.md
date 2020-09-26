@@ -1,4 +1,4 @@
-# 2DClinostat
+# 2D Clinostat
 A clinostat is a device that removes the effect of gravity on plant root and shoot growth, effectively simulating a weightless environment without the need to leave Earth’s atmosphere.
 ### Design Considerations
 The 2D clinostat must...
@@ -17,6 +17,7 @@ Focus for this semester
 - Make the clinostat more durable by building the frame out of non-rusting, non-hygroscopic materials such as stainless steel.
 - Minimize vibration on the petri dishes from the stepper motor by 
 remodeling the bearing adapters that connect the petri dish housing to the stepper motor and the frame.
+
 Beyond this semester
 - Add a UI LCD screen and potentiometer to control the rotation speed and run time of the 2D clinostat
 - Housing for electrical components to conserve space and have a cleaner look
